@@ -1,2 +1,2 @@
-# AI-Dataset
-Public Datasets for AI training
+# AI-Datasets
+Public Challenges and Datasets for AI training
