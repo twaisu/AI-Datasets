@@ -4,3 +4,4 @@
 [KDD Cup challenge](http://www.kdd.org/kdd-cup/view/kdd-cup-2016) (**K**nowledge **D**iscovery and **D**ata Mining)  
 [KDD Cup Datasets introduction](http://www.jianshu.com/p/70be2e313df1)  
 [Google AVA Dataset](https://research.google.com/ava/) (A Finely Labeled Video Dataset for Human Action Understanding)  
+[Mendeley Datasets](https://data.mendeley.com/datasets) (Mendeley Data is a secure cloud-based repository for researchers)  
