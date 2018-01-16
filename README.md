@@ -6,3 +6,4 @@
 [Google AVA Dataset](https://research.google.com/ava/) (A Finely Labeled Video Dataset for Human Action Understanding)  
 [Mendeley Datasets](https://data.mendeley.com/datasets) (Mendeley Data is a secure cloud-based repository for researchers)  
 [Mozilla's common voice](https://voice.mozilla.org/data) (Mozilla’s Open Source Speech Recognition Model and Voice Dataset)  
+[The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) (SQuAD)
